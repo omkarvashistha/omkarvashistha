@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @omkarvashistha
-- 👀 I’m interested in developing new products that help people and make there work easier
+- 👀 I Like developing new projects that help people and make there work easier
 - 🌱 I’m currently learning android development
 - 💞️ I’m looking to collaborate on app development projects
 - 📫 How to reach me omkarvashistha90@gmail.com
