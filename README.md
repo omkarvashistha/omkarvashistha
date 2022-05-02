@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @omkarvashistha
-- 👀 I Like developing new projects that help people and make there work easier
+- 👀 I Like developing new projects that helps people and make there work easier
 - 🌱 I’m currently learning App Development
-- 💞️ I’m looking to collaborate on app development projects
+- 💞️ I love coding you can say coding for me is like chai for indians without it my day does not starts and goes well
 - 📫 How to reach me omkarvashistha90@gmail.com
 
 <!---
