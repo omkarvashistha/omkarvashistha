@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omkarvashistha
 - 👀 I Like developing new projects that help people and make there work easier
-- 🌱 I’m currently learning android development
+- 🌱 I’m currently learning App Development
 - 💞️ I’m looking to collaborate on app development projects
 - 📫 How to reach me omkarvashistha90@gmail.com
 
