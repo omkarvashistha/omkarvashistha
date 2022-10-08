@@ -4,6 +4,7 @@
 - 💞️ I love coding you can say coding for me is like chai for indians without it my day does not starts and goes well
 - 📫 How to reach me omkarvashistha90@gmail.com
 - 📃 My Portfolio - https://omkarvashistha.github.io/omkar.Portfolio.github.io/
+- 🧾 Project Portfolio - https://6341a591ead9df5a014a570b--comfy-stardust-2c226c.netlify.app/
 
 <!---
 omkarvashistha/omkarvashistha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
