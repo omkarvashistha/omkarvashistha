@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning system design
 - 💞️ I love coding you can say coding for me is like chai for indians without it my day does not starts and goes well
 - 📫 How to reach me omkarvashistha90@gmail.com
-- 📃 My Portfolio - https://omkarvashistha.github.io/omkar.Portfolio.github.io/
 - 🧾 Project Portfolio - https://omkar-project-portfolio.netlify.app/
 
 <!---
